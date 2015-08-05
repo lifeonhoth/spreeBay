@@ -2,7 +2,7 @@ spreeBay is a digital obfuscation tool that hides your actual shopping habits in
 
 spreeBay was built as a part of a suite of digital identity obfuscation tools. See some other projects here:
 <a href="https://github.com/lifeonhoth/genderBender">genderBender</a> 
-<a href="https://github.com/lifeonhoth/crosstalkrepo">crossTalk</a> 
+<a href="https://github.com/lifeonhoth/crossTalk">crossTalk</a> 
 
 Thanks for playing!
 <a href="fletcherbach.com">Fletcher</a> 
