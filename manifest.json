@@ -1,0 +1,53 @@
+// CrossShop
+// Fletcher Bach 2015	
+// v. 0.1
+
+{
+  "manifest_version": 2,
+
+  "name": "SpreeBay",
+  "icons": {
+    "128": "icon128.png"
+  },
+
+  "description": "Shop 'till you drop",
+  "version": "0.2",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    //"default_popup": "popup.html",
+    "default_title": "SpreeBay"
+  },
+
+  // "page_action":{
+
+  //   },
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+
+
+  "permissions": [
+    "http://ebay.com/*"
+    //"tabs",
+    //"activeTab",
+    //"https://ajax.googleapis.com/",
+    //"http://www.google.com/*",
+    //"https://www.google.com/*"
+    // "http://www.google.se/*",
+    // "https://www.google.se/*",
+    // "http://www.google.de/*",
+    // "https://www.google.de/*",
+    // "http://www.google.fr/*",
+    // "https://www.google.fr/*",
+    // "http://www.google.pt/*",
+    // "https://www.google.pt/*",
+    // "http://www.bing.com/*",
+    // "http://www.duckduckgo.com/*",
+    // "http://www.wikipedia.org/*"
+    // "http://*/*",
+    // "https://*/*"
+  ]
+}
